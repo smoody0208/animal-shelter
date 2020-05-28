@@ -20,3 +20,14 @@
   font-family: sans-serif;
 }
 
+@media screen and (max-width: 480px) {
+  .column {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .column {
+    width: 50%;
+  }
+}
