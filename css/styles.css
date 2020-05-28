@@ -1,0 +1,15 @@
+.column {
+  width: 300px;
+  float: left;
+}
+
+.column h2 {
+  font-weight: bold;
+}
+
+.column img {
+  width: 200px;
+  max-height: 200px;
+}
+
+.column 
