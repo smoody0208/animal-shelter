@@ -12,4 +12,11 @@
   max-height: 200px;
 }
 
-.column 
+.column h4 {
+  font-style: italic;
+}
+
+.column p {
+  font-family: sans-serif;
+}
+
